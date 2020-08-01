@@ -4,7 +4,7 @@
  * User: GXTXG
  * Date: 2020/5/24
  * Time: 18:43
- * Version: 1.0
+ * Version: 1.1
  */
 if (!defined('__TYPECHO_ROOT_DIR__')) exit;
 $this->need('header.php');
