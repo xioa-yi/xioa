@@ -2,13 +2,13 @@
 
 在了解该Typecho主题前，你可能会对以下四篇文章感兴趣：
 
-> **文章一：**http://adolesce.cn/archives/36.html
+> 文章一：http://adolesce.cn/archives/36.html
 >
-> **文章二：**http://adolesce.cn/archives/37.html
+> 文章二：http://adolesce.cn/archives/37.html
 >
-> **文章三：**http://adolesce.cn/archives/38.html
+> 文章三：http://adolesce.cn/archives/38.html
 >
-> **文章四：**http://adolesce.cn/archives/39.html
+> 文章四：http://adolesce.cn/archives/39.html
 
 
 
